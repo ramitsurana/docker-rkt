@@ -1,6 +1,6 @@
 # Dockerfile for Rocket
 
-Created so I could easily play with [rocket](https://github.com/coreos/rocket).
+Give the tires on [rocket](https://github.com/coreos/rocket) a kick.
 
 ```
 $ docker pull nickethier/rkt
